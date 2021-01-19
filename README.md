@@ -13,7 +13,12 @@ Bygger simpel maskine
 
 Click the button below to deploy
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fskodbjarne%2FAzure%2Fmain%2Fazuredeploy.json?token=AOZNDRI6AAWEZGYV6THCKHDAA5P24) 
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)]
+(https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fskodbjarne%2FAzure%2Fmain%2Fazuredeploy.json) 
+
+
+
+#https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fskodbjarne%2FAzure%2Fmain%2Fazuredeploy.json
 
 
 
