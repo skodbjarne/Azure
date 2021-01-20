@@ -6,10 +6,22 @@
       "value": "localadmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Kodeord123456"
     },
-    "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+    "domainName": {
+      "value": "bramsen.info"
+    },
+    "dnsPrefix": {
+      "value": "bramsen.info"
+    },
+    "vmSize":{
+      "value":"B1ms"
+    },
+    "location":{
+      "value": "westeurope"
+    },
+    "virtualMachineName":{
+      "value": "DC"
     }
   }
 }
