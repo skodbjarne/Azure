@@ -75,13 +75,7 @@
                 "description": "Virtual network address range."
             }
         },
-        "inboundNatRulesName": {
-            "type": "string",
-            "defaultValue": "adRDP",
-            "metadata": {
-                "description": "Inbound NAT rules name."
-            }
-        },
+
         "networkInterfaceName": {
             "type": "string",
             "defaultValue": "adNic",
