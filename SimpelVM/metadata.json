@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Deploy a simple Windows VM",
+  "icon": "windowsVM",
+  "description": "Simpel VM.",
+  "summary": ".",
+  "githubUsername": "skodbjarne",
+  "docOwner": "skod",
+  "dateUpdated": "2021-01-20"
+}
