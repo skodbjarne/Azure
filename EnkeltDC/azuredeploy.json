@@ -4,6 +4,7 @@
     "parameters": {
         "adminUsername": {
             "type": "string",
+            "defaultvalue" :"localadmin",
             "metadata": {
                 "description": "The name of the administrator account of the new VM and domain"
             }
@@ -18,12 +19,6 @@
             "type": "string",
             "metadata": {
                 "description": "The FQDN of the Active Directory Domain to be created"
-            }
-        },
-        "dnsPrefix": {
-            "type": "string",
-            "metadata": {
-                "description": "The DNS prefix for the public IP address used by the Load Balancer"
             }
         },
         "vmSize": {
@@ -119,10 +114,7 @@
             "name": "[parameters('publicIPAddressName')]",
             "location": "[parameters('location')]",
             "properties": {
-                "publicIPAllocationMethod": "Static",
-                "dnsSettings": {
-                    "domainNameLabel": "[parameters('dnsPrefix')]"
-                }
+                "publicIPAllocationMethod": "Static"
             }
         },
      

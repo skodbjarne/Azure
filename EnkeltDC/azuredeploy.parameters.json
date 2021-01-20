@@ -11,9 +11,6 @@
     "domainName": {
       "value": "bramsen.info"
     },
-    "dnsPrefix": {
-      "value": "bramsen.info"
-    },
     "vmSize":{
       "value":"B1ms"
     },
